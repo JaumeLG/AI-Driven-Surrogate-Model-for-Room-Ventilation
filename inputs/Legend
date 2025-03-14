@@ -1,0 +1,2 @@
+Inputs of the NN:
+4 values of Relative Humidity (RH) and Temperature corresponding to 4 sensors inside the room, RH and Temperature from the drying and supply systems, and flow rates corresponding to drying, supply and exhaust systems.
