@@ -1,0 +1,1 @@
+Outputs of the predictive model, 64k for RH and another 64k for Temperature. RH are in % and Temperature in degrees Kelvin, for the training and inferring of the neural network, they need to be normalized.
